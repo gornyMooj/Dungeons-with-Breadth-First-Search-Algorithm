@@ -9,7 +9,7 @@ The way from Start (S) to Exit(E) is represented with the letters L-left, R-righ
 
 
 Direction:  LLLLLLLLUUU
-
+```
 # #       #   #
 ## # #     #   
 E #     #   ## 
@@ -20,3 +20,4 @@ E #     #   ##
 #   #     ##   #
  #       ###   #
   ##      # # #
+  ```
