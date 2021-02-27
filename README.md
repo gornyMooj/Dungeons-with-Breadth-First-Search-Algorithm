@@ -8,16 +8,22 @@ The code creates a random dungeon with the random entrance and exits. It also fi
 The way from Start (S) to Exit(E) is represented with the letters L-left, R-right, U-up, D-down.
 
 
-Direction:  LLLLLLLLUUU
+
 ```
-# #       #   #
-## # #     #   
-E #     #   ## 
-. #  ## #     #
-.  # #   #   # 
-........S # ###
-  #     # ##  #
-#   #     ##   #
- #       ###   #
-  ##      # # #
+Direction:  LLLULLLLULLULLLUUUUUU
+
+  #    # #        # #      ## #
+       ##     ##  #     ###   
+   #       #   ##  #   #   ## 
+ # # #    E#    # # #         #
+         #.  ## ###          #
+    # #   .# # # # #     ##   
+  ### #   .        #     #   #
+    #    #.#       #     ##  #
+ #   #   #.# ###        #     
+    #    #....#  ## #     #   #
+ # ###   #  #... #     #      
+     ##  # #  #..... # #  #   
+     #    #    # ##...S# #   #
+# ##      #    #  # ##     #  
   ```
